@@ -1,0 +1,71 @@
+.container{
+    width: 900px;
+    height:auto ;
+    box-shadow: 4px 5px 10px black;
+    background-color: aqua;
+    margin: 0 auto;
+    
+}
+h1{
+    text-align: center;
+}
+input{
+    width: 90%;
+    padding: 10px;
+    margin-top: 9px;
+    margin-left: 20px;
+    
+}
+.read{
+    width: 800px;
+   background-color: rgb(24, 23, 23);
+   font-size: 25px;
+   padding: 10px;
+   color: blanchedalmond;
+   cursor: pointer;
+   margin-top: 9px;
+   margin-left: 40px;
+}
+.btn{
+   width: 800px;
+   background-color: rgb(6, 6, 6);
+   font-size: 25px;
+   padding: 10px;
+   color: blanchedalmond;
+   cursor: pointer;
+   margin-top: 9px;
+   margin-left: 40px;
+}
+table{
+    width: 900px;
+    margin-top: 10px;
+
+}
+table,th,td{
+    padding: 10px;
+    text-align: center;
+    color: aliceblue;
+    border: 1px solid white;
+    border-collapse: collapse;
+}
+#edit{
+    
+    background-color: blue;
+    font-size: 25px;
+    padding: 10px 20px;
+    color: blanchedalmond;
+    cursor: pointer;
+    margin-top: 20px;
+    margin-left: 390px;
+    margin-bottom: 20px;
+}
+.home{
+    background-color: blue;
+    font-size: 25px;
+    padding: 10px 20px;
+    color: blanchedalmond;
+    cursor: pointer;
+    margin-top: 20px;
+    margin-left: 390px;
+    margin-bottom: 20px;
+}
